@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    text-size-adjust: 100%;
     font-family: sans-serif;
     height: 100%;
     margin: 0;
