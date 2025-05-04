@@ -78,6 +78,7 @@ section {
 .nomal_text {
     font-size: 17px;
     text-align: left;
+    color: red;
 }
 
 .exp_text {
