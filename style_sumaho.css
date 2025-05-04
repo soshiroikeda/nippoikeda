@@ -7,7 +7,7 @@ body {
     height: 100%;
     margin: 0;
     text-align: center;
-    background-color: black;
+    background-color: green;
     color: white;
 }
 
@@ -69,13 +69,13 @@ section h2 {
 }
 
 .nomal_img {
-    width: 60vw;
+    width: 80vw;
     margin-top: 10px;
     margin-bottom: 0;
 }
 
 .large_img {
-    width: 35vw;
+    width: 45vw;
     margin-top: 10px;
     margin-bottom: 0;
 }
